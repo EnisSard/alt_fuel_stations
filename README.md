@@ -34,5 +34,5 @@ Alternative Fuel Stations dataset, ArcGIS Living Atlas of the World (Esri / U.S.
 
 View live map
 
-https://enissard.github.io/alt\_fuel\_stations/
+(https://enissard.github.io/alt_fuel_stations/)
 
