@@ -6,6 +6,7 @@ Map of alternative fuel stations across United States and Canada. Built with the
 
 ![Map view](screenshot.png)
 ![Filter sidebar](screenshot1.png)
+![Description](screenshot2.png)
 
 ## Features
 
